@@ -1,0 +1,99 @@
+*
+{
+    margin:0px;
+}
+body
+{   background-image:url(../image/939426.png);
+    background-position:cover;
+    background-size:100%140%;
+    background-repeat:no-repeat;
+     
+}
+.container
+{
+    background-color: none;
+    width:auto;
+    overflow:hidden;
+}
+.navbar h2
+{
+    float:left;
+    padding:15px;
+    color:white;
+    font-family:Gugi;	
+}
+.navbar span
+{color:red;}
+.navbar ul
+{
+    list-style:none;
+    padding-right:50px;
+    margin-right:0px;
+    
+}
+.navbar ul li a
+{
+    float:right;
+    padding-right:100px;
+    padding-top:20px;
+    text-decoration:none;
+    color:snow;
+    font-family:Bahnschrift SemiBold;
+    font-size:17px;
+    text-transform: uppercase;  
+}
+.navbar a:hover
+{text-decoration:underline;
+text-decoration-color: red;
+}
+.container2
+{
+    margin-top:220px;
+    margin-left:70px;
+}
+.body span
+{
+    font-family:Gugi;
+    font-size:50px;
+    color:red;
+}
+.body h4
+{font-family:MS PGothic;
+color: white;}
+.linkk 
+{
+    background-color:red;
+    margin-left:70px;
+    margin-right:1110px;
+    padding-left:50px;
+    padding-bottom:10px;
+    padding-right: 50px;
+    padding-top:10px;
+    border-radius: 10px;
+    border-style:hidden;
+    color:white;
+    
+}
+.linkk a
+{
+    text-decoration:none;
+    color:white;
+    font-family: Bahnschrift SemiBold;
+    font-size:18px;
+    margin-left:5px;
+}
+.font
+{
+    font-family:Gugi;
+    color="black";
+    font-size:50px;
+}
+
+
+
+
+
+
+
+
+
